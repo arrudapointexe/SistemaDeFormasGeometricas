@@ -1,26 +1,24 @@
-Olá! 👋 Eu sou Itallo Vieira Arruda
+# 📐 Calculadora de Áreas e Perímetros
 
-🎓 Estudante de Engenharia de Computação na UFOP.
+Programa em C que permite calcular áreas e perímetros de diversas formas geométricas por meio de um menu interativo.
 
-💻 Interesse em desenvolvimento de software, redes e sistemas embarcados.
+## 🚀 Funcionalidades
 
-🚀 Atualmente aprimorando meus conhecimentos em C, Redes e Sistemas.
+✅ Cálculo de área e perímetro de:
+- Quadrado
+- Retângulo
+- Círculo
+- Triângulo
 
+✅ Interface simples via terminal  
+✅ Implementado com modularização (`.h` e `.c` separados)  
+✅ Utiliza `Makefile` para compilação fácil  
 
-🛠️ Tecnologias & Ferramentas
+---
 
-Linguagens: C, Python, Shell Script
+## 💻 Como Usar
 
-Sistemas Operacionais: Linux (Debian)
-
-Redes: TCP/IP, Configuração de Servidores, Wireshark
-
-Ferramentas: Git/GitHub, Docker, Virtualização (VirtualBox/QEMU)
-
-
-
-📫 Contato:
-
-📧 Email: itallo.mccg@gmail.com || itallovieiraarruda.@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/ítallovieiraarruda/
-
-Seja bem-vindo ao meu GitHub! Sempre aberto a colaborações e novos aprendizados. 🚀
+### 1️⃣ Clonar o Repositório
+```bash
+git clone https://github.com/seuusuario/calculadora-formas-geometricas.git
+cd calculadora-formas-geometricas
