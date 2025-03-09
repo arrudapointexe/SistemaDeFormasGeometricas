@@ -10,11 +10,16 @@ Olá! 👋 Eu sou Itallo Vieira Arruda
 🛠️ Tecnologias & Ferramentas
 
 Linguagens: C, Python, Shell Script
+
 Sistemas Operacionais: Linux (Debian)
+
 Redes: TCP/IP, Configuração de Servidores, Wireshark
+
 Ferramentas: Git/GitHub, Docker, Virtualização (VirtualBox/QEMU)
 
-📫 Contato
+
+
+📫 Contato:
 
 📧 Email: itallo.mccg@gmail.com || itallovieiraarruda.@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/ítallovieiraarruda/
 
